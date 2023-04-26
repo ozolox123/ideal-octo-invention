@@ -3,7 +3,38 @@
 /* 1 block end */
 
 /* 2 block */
-
+ .block-2 {
+    position:absolute;
+    top: 70rem;
+ }
+ .block2-button {
+    position: absolute;
+    top: 70rem;
+    left: 50rem;
+    width: 75px; ;
+    height: 26px;
+ }
+ .text-2class {
+    position: absolute;
+    top: 74rem;
+    left: 50rem;
+ }
+ .text-2block {
+    position: absolute;
+    left: 50rem;
+    top: 85rem;
+    color: #151515;
+ }
+ .knopka1 {
+    position: absolute;
+    top: 90rem;
+    left: 50rem;
+ }
+.tochka {
+    position: absolute;
+    top: 90rem;
+    left: 48rem;
+}
 /* 2 block end */
 
 /* 3 block */
